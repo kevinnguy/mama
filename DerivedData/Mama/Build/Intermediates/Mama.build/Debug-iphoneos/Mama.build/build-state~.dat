@@ -1,0 +1,367 @@
+TMama
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/ResourceRules.plist
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Script-7406FD0C90C9479BA42C259D.sh
+cProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch.pch Mama/Mama-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContact.o /Users/kevinnguy/mama/Mama/MAContact.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAAppDelegate.o /Users/kevinnguy/mama/Mama/MAAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MACameraViewController.o /Users/kevinnguy/mama/Mama/MACameraViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/main.o /Users/kevinnguy/mama/Mama/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContactViewController.o /Users/kevinnguy/mama/MAContactViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAHomeViewController.o /Users/kevinnguy/mama/Mama/MAHomeViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/Mama normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534CDD8D0000000000000132
+t1397546381
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c000000005324D5B00000000000000096
+t1394922928
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005324D5B0000000000000036B
+t1394922928
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005324D5B1000000000000019E
+t1394922929
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534CDD6900000000004D7BC0
+t1397546345
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005324D5B60000000000A90C10
+t1394922934
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005324D5C10000000002759920
+t1394922945
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005324D60E0000000000000ADC
+t1394923022
+s2780
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAAppDelegate.o
+t1408046187
+s61740
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MACameraViewController.o
+t1408046187
+s38712
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContact.o
+t1408046187
+s9012
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContactViewController.o
+t1408046188
+s50692
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAHomeViewController.o
+t1408046188
+s61208
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/Mama.LinkFileList
+c0000000053ED146A000000000000032B
+t1408046186
+s811
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/main.o
+t1408046187
+s3724
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Script-7406FD0C90C9479BA42C259D.sh
+c0000000053ED146A0000000000000103
+t1408046186
+s259
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch.pch
+t1408046187
+s87612
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/Mama
+t2
+s0
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/ResourceRules.plist
+t2
+s0
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/kevinnguy/mama/MAContactViewController.h
+c0000000053ED027000000000000001D7
+t1408041584
+s471
+
+N/Users/kevinnguy/mama/MAContactViewController.m
+c0000000053ED13FC00000000000002D2
+t1408046076
+s722
+
+N/Users/kevinnguy/mama/Mama/MAAppDelegate.h
+c0000000053ECF97A0000000000000114
+t1408039290
+s276
+
+N/Users/kevinnguy/mama/Mama/MAAppDelegate.m
+c0000000053ECF97A00000000000007D8
+t1408039290
+s2008
+
+N/Users/kevinnguy/mama/Mama/MACameraViewController.h
+c0000000053ED141500000000000000E2
+t1408046101
+s226
+
+N/Users/kevinnguy/mama/Mama/MACameraViewController.m
+c0000000053ED0BDD000000000000017C
+t1408043997
+s380
+
+N/Users/kevinnguy/mama/Mama/MAContact.h
+c0000000053ED026F0000000000000188
+t1408041583
+s392
+
+N/Users/kevinnguy/mama/Mama/MAContact.m
+c0000000053ED027000000000000001EE
+t1408041584
+s494
+
+N/Users/kevinnguy/mama/Mama/MAHomeViewController.h
+c0000000053ED0270000000000000011B
+t1408041584
+s283
+
+N/Users/kevinnguy/mama/Mama/MAHomeViewController.m
+c0000000053ED02A3000000000000066F
+t1408041635
+s1647
+
+N/Users/kevinnguy/mama/Mama/Mama-Prefix.pch
+c0000000053ECF97A0000000000000158
+t1408039290
+s344
+
+N/Users/kevinnguy/mama/Mama/main.m
+c0000000053ECF97A0000000000000150
+t1408039290
+s336
+
+CBuild AST from /Users/kevinnguy/mama/MAContactViewController.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Mama/MAAppDelegate.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Mama/MACameraViewController.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Mama/MAContact.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Mama/MAHomeViewController.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Mama/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0bd1a9ea4b9db941^8109acea4b9db941^---0#1#1#--18"Check dependencies36"26009DC5-5B1A-4FCE-A738-47625EED7856-
+
+CCodeSign /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app
+r0
+
+CCompileAssetCatalog /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app /Users/kevinnguy/mama/Mama/Images.xcassets
+r0
+
+CCompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAAppDelegate.o /Users/kevinnguy/mama/Mama/MAAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429738987.839262
+e429738987.962149
+r1
+xCompileC
+xDerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAAppDelegate.o
+x/Users/kevinnguy/mama/Mama/MAAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Mama/MAAppDelegate.m
+d/Users/kevinnguy/mama/Mama/MAAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Compile /Users/kevinnguy/mama/Mama/MAAppDelegate.m209"CompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAAppDelegate.o Mama/MAAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler390bd7eb4b9db941^594ef6eb4b9db941^---0#0#1#-19%DVTDocumentLocation2@49"file:///Users/kevinnguy/mama/Mama/MAAppDelegate.m0000000000000000^3574"CompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAAppDelegate.o Mama/MAAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/DBCamera -I/Users/kevinnguy/mama/Pods/Headers/GPUImage -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -isystem /Users/kevinnguy/mama/Pods/Headers -isystem /Users/kevinnguy/mama/Pods/Headers/DBCamera -isystem /Users/kevinnguy/mama/Pods/Headers/GPUImage -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAAppDelegate.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAAppDelegate.dia -c /Users/kevinnguy/mama/Mama/MAAppDelegate.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAAppDelegate.o36"77F07D72-FB1B-4E28-A96C-465BD57D2DC1-
+b1591B4C9-207A-4F19-B9C5-3B67E5F19C58
+
+CCompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MACameraViewController.o /Users/kevinnguy/mama/Mama/MACameraViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429738987.839483
+e429738987.942079
+r1
+xCompileC
+xDerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MACameraViewController.o
+x/Users/kevinnguy/mama/Mama/MACameraViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Mama/MACameraViewController.m
+d/Users/kevinnguy/mama/Mama/MACameraViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/kevinnguy/mama/Mama/MACameraViewController.m227"CompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MACameraViewController.o Mama/MACameraViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler630dd7eb4b9db941^1630f1eb4b9db941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/kevinnguy/mama/Mama/MACameraViewController.m0000000000000000^3628"CompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MACameraViewController.o Mama/MACameraViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/DBCamera -I/Users/kevinnguy/mama/Pods/Headers/GPUImage -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -isystem /Users/kevinnguy/mama/Pods/Headers -isystem /Users/kevinnguy/mama/Pods/Headers/DBCamera -isystem /Users/kevinnguy/mama/Pods/Headers/GPUImage -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MACameraViewController.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MACameraViewController.dia -c /Users/kevinnguy/mama/Mama/MACameraViewController.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MACameraViewController.o36"D0017759-6DB6-4C3B-A1EC-607FE0BB16A8-
+b1591B4C9-207A-4F19-B9C5-3B67E5F19C58
+
+CCompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContact.o /Users/kevinnguy/mama/Mama/MAContact.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429738987.838819
+e429738987.902593
+r1
+xCompileC
+xDerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContact.o
+x/Users/kevinnguy/mama/Mama/MAContact.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Mama/MAContact.m
+d/Users/kevinnguy/mama/Mama/MAContact.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/kevinnguy/mama/Mama/MAContact.m201"CompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContact.o Mama/MAContact.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1ff2d6eb4b9db941^ed10e7eb4b9db941^---0#0#1#-19%DVTDocumentLocation2@45"file:///Users/kevinnguy/mama/Mama/MAContact.m0000000000000000^3550"CompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContact.o Mama/MAContact.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/DBCamera -I/Users/kevinnguy/mama/Pods/Headers/GPUImage -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -isystem /Users/kevinnguy/mama/Pods/Headers -isystem /Users/kevinnguy/mama/Pods/Headers/DBCamera -isystem /Users/kevinnguy/mama/Pods/Headers/GPUImage -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContact.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContact.dia -c /Users/kevinnguy/mama/Mama/MAContact.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContact.o36"EC2A4BB9-FC40-433B-B366-FDA97513670A-
+b1591B4C9-207A-4F19-B9C5-3B67E5F19C58
+
+CCompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContactViewController.o /Users/kevinnguy/mama/MAContactViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429738987.893601
+e429738988.004446
+r1
+xCompileC
+xDerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContactViewController.o
+x/Users/kevinnguy/mama/MAContactViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/MAContactViewController.m
+d/Users/kevinnguy/mama/MAContactViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/kevinnguy/mama/MAContactViewController.m224"CompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContactViewController.o MAContactViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler27f6e4eb4b9db941^3a2401ec4b9db941^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/kevinnguy/mama/MAContactViewController.m0000000000000000^3624"CompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContactViewController.o MAContactViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/DBCamera -I/Users/kevinnguy/mama/Pods/Headers/GPUImage -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -isystem /Users/kevinnguy/mama/Pods/Headers -isystem /Users/kevinnguy/mama/Pods/Headers/DBCamera -isystem /Users/kevinnguy/mama/Pods/Headers/GPUImage -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContactViewController.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContactViewController.dia -c /Users/kevinnguy/mama/MAContactViewController.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAContactViewController.o36"E56F7003-79EA-40B6-B959-07D5AD38E82D-
+b1591B4C9-207A-4F19-B9C5-3B67E5F19C58
+
+CCompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAHomeViewController.o /Users/kevinnguy/mama/Mama/MAHomeViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429738987.903196
+e429738988.016214
+r1
+xCompileC
+xDerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAHomeViewController.o
+x/Users/kevinnguy/mama/Mama/MAHomeViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Mama/MAHomeViewController.m
+d/Users/kevinnguy/mama/Mama/MAHomeViewController.h
+d/Users/kevinnguy/mama/Mama/MAContact.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/kevinnguy/mama/Mama/MAHomeViewController.m223"CompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAHomeViewController.o Mama/MAHomeViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb66ae7eb4b9db941^4a2904ec4b9db941^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/kevinnguy/mama/Mama/MAHomeViewController.m0000000000000000^3616"CompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAHomeViewController.o Mama/MAHomeViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/DBCamera -I/Users/kevinnguy/mama/Pods/Headers/GPUImage -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -isystem /Users/kevinnguy/mama/Pods/Headers -isystem /Users/kevinnguy/mama/Pods/Headers/DBCamera -isystem /Users/kevinnguy/mama/Pods/Headers/GPUImage -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAHomeViewController.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAHomeViewController.dia -c /Users/kevinnguy/mama/Mama/MAHomeViewController.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/MAHomeViewController.o36"89F2FECB-C2AE-4BAE-9093-D1B92486D30C-
+b1591B4C9-207A-4F19-B9C5-3B67E5F19C58
+
+CCompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/main.o /Users/kevinnguy/mama/Mama/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429738987.840226
+e429738987.893051
+r1
+xCompileC
+xDerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/main.o
+x/Users/kevinnguy/mama/Mama/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Mama/main.m
+d/Users/kevinnguy/mama/Mama/MAAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Compile /Users/kevinnguy/mama/Mama/main.m191"CompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/main.o Mama/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler6842d7eb4b9db941^739fe4eb4b9db941^---0#0#1#-19%DVTDocumentLocation2@40"file:///Users/kevinnguy/mama/Mama/main.m0000000000000000^3520"CompileC DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/main.o Mama/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/DBCamera -I/Users/kevinnguy/mama/Pods/Headers/GPUImage -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -isystem /Users/kevinnguy/mama/Pods/Headers -isystem /Users/kevinnguy/mama/Pods/Headers/DBCamera -isystem /Users/kevinnguy/mama/Pods/Headers/GPUImage -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/main.dia -c /Users/kevinnguy/mama/Mama/main.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/main.o36"CA0B2F10-0F85-4BAC-9A29-8F1864649B92-
+b1591B4C9-207A-4F19-B9C5-3B67E5F19C58
+
+CCompileStoryboard /Users/kevinnguy/mama/Mama/Base.lproj/Main_iPhone.storyboard
+r0
+
+CCopyStringsFile /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/en.lproj/InfoPlist.strings Mama/en.lproj/InfoPlist.strings
+r0
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/ResourceRules.plist
+s429738986.670369
+e429738986.671713
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xDerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/ResourceRules.plist208"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/ResourceRules.plist3eb0abea4b9db941^c05eb5ea4b9db941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/ResourceRules.plist00349831dfffdf42^738"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/ResourceRules.plist    cd /Users/kevinnguy/mama    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app36"40AA53A6-CA58-49CB-AF95-3B3CF2156F22-
+b1591B4C9-207A-4F19-B9C5-3B67E5F19C58
+
+CGenerateDSYMFile /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app.dSYM /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/Mama
+r0
+
+CLd /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/Mama normal armv7
+s429738988.017210
+e429738988.027486
+r0
+xLd
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/Mama
+xnormal
+xarmv7
+d/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/Mama.LinkFileList
+old: library not found for -lPods
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Link /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/Mama76"Ld DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/Mama normal armv7537804ec4b9db941^200907ec4b9db941^-113"ld: library not found for -lPodsclang: error: linker command failed with exit code 1 (use -v to see invocation)2(21%IDEActivityLogMessage2@28"Library not found for -lPods-429738988#0#33#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-429738988#33#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1340"Ld DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/Mama normal armv7    cd /Users/kevinnguy/mama    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -filelist /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/Mama.LinkFileList -dead_strip -ObjC -framework AVFoundation -framework CoreMedia -framework OpenGLES -framework QuartzCore -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Objects-normal/armv7/Mama_dependency_info.dat -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/Mama36"BB766D6B-FFE5-4C8F-B422-F96D2B8ED54D-
+b1591B4C9-207A-4F19-B9C5-3B67E5F19C58
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Script-7406FD0C90C9479BA42C259D.sh
+s429738986.672139
+e429738986.695303
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Script-7406FD0C90C9479BA42C259D.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'156"PhaseScriptExecution Check\ Pods\ Manifest.lock DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Script-7406FD0C90C9479BA42C259D.sh75e8acea4b9db941^a86fb5ea4b9db941^---0#0#1#--332"PhaseScriptExecution Check\ Pods\ Manifest.lock DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Script-7406FD0C90C9479BA42C259D.sh    cd /Users/kevinnguy/mama    /bin/sh -c /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Script-7406FD0C90C9479BA42C259D.sh36"1BC87EAD-5835-4F54-9BBF-89EE02F761F7-
+b1591B4C9-207A-4F19-B9C5-3B67E5F19C58
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Script-11ABDFFF59BA495CBE545F0B.sh
+r0
+
+CProcessInfoPlistFile /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/Info.plist /Users/kevinnguy/mama/Mama/Mama-Info.plist
+r0
+
+CProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch.pch Mama/Mama-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429738986.696339
+e429738987.837839
+r1
+xProcessPCH
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch.pch
+xMama/Mama-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Mama/Mama-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile Mama/Mama-Prefix.pch217"ProcessPCH DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch.pch Mama/Mama-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1669b2ea4b9db941^5182d6eb4b9db941^---0#0#1#-19%DVTDocumentLocation2@49"file:///Users/kevinnguy/mama/Mama/Mama-Prefix.pch0000000000000000^3459"ProcessPCH DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch.pch Mama/Mama-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/DBCamera -I/Users/kevinnguy/mama/Pods/Headers/GPUImage -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -isystem /Users/kevinnguy/mama/Pods/Headers -isystem /Users/kevinnguy/mama/Pods/Headers/DBCamera -isystem /Users/kevinnguy/mama/Pods/Headers/GPUImage --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch.dia -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch.d -c /Users/kevinnguy/mama/Mama/Mama-Prefix.pch -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Mama-Prefix-dpetkkzopldqbnbuxfwvrjqedxir/Mama-Prefix.pch.pch36"D59C3CA4-6371-4A91-9EBA-5C96BD13C839-
+b1591B4C9-207A-4F19-B9C5-3B67E5F19C58
+
+CProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Index/PrecompiledHeaders/Mama-Prefix-cqqtodpmsfzrgsfdqiyxrvuxwwee_ast/Mama-Prefix.pch.pch Mama/Mama-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Mama.build/Debug-iphoneos/Mama.build/Mama.xcent
+r0
+
+CProcessProductPackaging /Users/kevinnguy/Library/MobileDevice/Provisioning\ Profiles/DFF98D66-690D-4B6E-8A06-790943CBF580.mobileprovision /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app/embedded.mobileprovision
+r0
+
+CTouch /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/Mama.app
+r0
+

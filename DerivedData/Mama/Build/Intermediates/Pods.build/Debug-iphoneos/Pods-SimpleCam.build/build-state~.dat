@@ -1,0 +1,165 @@
+TPods-SimpleCam
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-ejuuzphdcehpbjbkrwjnvzhclmki/Pods-SimpleCam-prefix.pch.pch Pods-SimpleCam-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-gshryywzsvuxhlepjnvbhoyhpqgb/Pods-SimpleCam-prefix.pch.pch Pods-SimpleCam-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/Pods-SimpleCam-dummy.o /Users/kevinnguy/mama/Pods/Pods-SimpleCam-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/SimpleCam.o /Users/kevinnguy/mama/Pods/SimpleCam/SimpleCam/SimpleCam/SimpleCam.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-SimpleCam.a normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534CDD8D0000000000000132
+t1397546381
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005324D5B0000000000000036B
+t1394922928
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005324D5B1000000000000019E
+t1394922929
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005324D5B60000000000A90C10
+t1394922934
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005324D60E0000000000000ADC
+t1394923022
+s2780
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/Pods-SimpleCam-dummy.o
+t1408048319
+s3696
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/Pods-SimpleCam.LinkFileList
+c0000000053ED1CBC0000000000000121
+t1408048316
+s289
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/SimpleCam.o
+t1408048319
+s167056
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-ejuuzphdcehpbjbkrwjnvzhclmki/Pods-SimpleCam-prefix.pch.pch
+t1408048317
+s97152
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-gshryywzsvuxhlepjnvbhoyhpqgb/Pods-SimpleCam-prefix.pch.pch
+t1408048318
+s92020
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-SimpleCam.a
+t2
+s0
+
+N/Users/kevinnguy/mama/Pods/Pods-SimpleCam-dummy.m
+c0000000053ED1C390000000000000084
+t1408048185
+s132
+
+N/Users/kevinnguy/mama/Pods/Pods-SimpleCam-prefix.pch
+c0000000053ED1C39000000000000004D
+t1408048185
+s77
+
+N/Users/kevinnguy/mama/Pods/SimpleCam/SimpleCam/SimpleCam/SimpleCam.m
+c0000000053ED1C39000000000000778E
+t1408048185
+s30606
+
+CBuild AST from /Users/kevinnguy/mama/Pods/Pods-SimpleCam-dummy.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/SimpleCam/SimpleCam/SimpleCam/SimpleCam.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies29af9d3c549db941^ace2b53c549db941^---0#1#1#--18"Check dependencies36"F01A129E-FDEE-4934-810E-659DF6F04939-
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/Pods-SimpleCam-dummy.o /Users/kevinnguy/mama/Pods/Pods-SimpleCam-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429741119.161299
+e429741119.216309
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/Pods-SimpleCam-dummy.o
+x/Users/kevinnguy/mama/Pods/Pods-SimpleCam-dummy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/Pods-SimpleCam-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/kevinnguy/mama/Pods/Pods-SimpleCam-dummy.m250"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/Pods-SimpleCam-dummy.o Pods-SimpleCam-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler478d293f549db941^af60373f549db941^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/kevinnguy/mama/Pods/Pods-SimpleCam-dummy.m0000000000000000^3621"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/Pods-SimpleCam-dummy.o Pods-SimpleCam-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/SimpleCam -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers/SimpleCam -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-ejuuzphdcehpbjbkrwjnvzhclmki/Pods-SimpleCam-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/Pods-SimpleCam-dummy.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/Pods-SimpleCam-dummy.dia -c /Users/kevinnguy/mama/Pods/Pods-SimpleCam-dummy.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/Pods-SimpleCam-dummy.o36"928FBE03-DA18-48EB-9163-BEC1F3A63FFE-
+b7991F9DB-060E-43D4-9D21-CA7A5A0C2670
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/SimpleCam.o /Users/kevinnguy/mama/Pods/SimpleCam/SimpleCam/SimpleCam/SimpleCam.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429741119.162033
+e429741119.816743
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/SimpleCam.o
+x/Users/kevinnguy/mama/Pods/SimpleCam/SimpleCam/SimpleCam/SimpleCam.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/SimpleCam/SimpleCam/SimpleCam/SimpleCam.m
+d/Users/kevinnguy/mama/Pods/SimpleCam/SimpleCam/SimpleCam/SimpleCam.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/kevinnguy/mama/Pods/SimpleCam/SimpleCam/SimpleCam/SimpleCam.m258"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/SimpleCam.o SimpleCam/SimpleCam/SimpleCam/SimpleCam.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf9a2293f549db941^c218d13f549db941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/kevinnguy/mama/Pods/SimpleCam/SimpleCam/SimpleCam/SimpleCam.m0000000000000000^3649"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/SimpleCam.o SimpleCam/SimpleCam/SimpleCam/SimpleCam.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/SimpleCam -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers/SimpleCam -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-gshryywzsvuxhlepjnvbhoyhpqgb/Pods-SimpleCam-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/SimpleCam.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/SimpleCam.dia -c /Users/kevinnguy/mama/Pods/SimpleCam/SimpleCam/SimpleCam/SimpleCam.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/SimpleCam.o36"93BC0AB8-0E3D-44F3-80B1-79C34A70C9DB-
+b7991F9DB-060E-43D4-9D21-CA7A5A0C2670
+
+CLibtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-SimpleCam.a normal armv7
+s429741119.817474
+e429741119.823703
+r1
+xLibtool
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-SimpleCam.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Libtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-SimpleCam.a normal armv7109"Libtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-SimpleCam.a normal armv7e755d13f549db941^1edfd23f549db941^---0#0#1#--962"Libtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-SimpleCam.a normal armv7    cd /Users/kevinnguy/mama/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -filelist /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Objects-normal/armv7/Pods-SimpleCam.LinkFileList -framework Foundation -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-SimpleCam.a36"A6CAEA64-1238-45D7-A4E8-900BC836D0FF-
+b7991F9DB-060E-43D4-9D21-CA7A5A0C2670
+
+CProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-ejuuzphdcehpbjbkrwjnvzhclmki/Pods-SimpleCam-prefix.pch.pch Pods-SimpleCam-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429741116.711958
+e429741117.220354
+r1
+xProcessPCH
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-ejuuzphdcehpbjbkrwjnvzhclmki/Pods-SimpleCam-prefix.pch.pch
+xPods-SimpleCam-prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/Pods-SimpleCam-prefix.pch
+d/Users/kevinnguy/mama/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Precompile Pods-SimpleCam-prefix.pch264"ProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-ejuuzphdcehpbjbkrwjnvzhclmki/Pods-SimpleCam-prefix.pch.pch Pods-SimpleCam-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0a83b63c549db941^4294433d549db941^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/kevinnguy/mama/Pods/Pods-SimpleCam-prefix.pch0000000000000000^3504"ProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-ejuuzphdcehpbjbkrwjnvzhclmki/Pods-SimpleCam-prefix.pch.pch Pods-SimpleCam-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/SimpleCam -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers/SimpleCam -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-ejuuzphdcehpbjbkrwjnvzhclmki/Pods-SimpleCam-prefix.pch.dia -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-ejuuzphdcehpbjbkrwjnvzhclmki/Pods-SimpleCam-prefix.pch.d -c /Users/kevinnguy/mama/Pods/Pods-SimpleCam-prefix.pch -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-ejuuzphdcehpbjbkrwjnvzhclmki/Pods-SimpleCam-prefix.pch.pch36"76D0EE89-91E1-4BA3-92E9-93058F2C5FBB-
+b7991F9DB-060E-43D4-9D21-CA7A5A0C2670
+
+CProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-gshryywzsvuxhlepjnvbhoyhpqgb/Pods-SimpleCam-prefix.pch.pch Pods-SimpleCam-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429741116.712469
+e429741119.159831
+r1
+xProcessPCH
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-gshryywzsvuxhlepjnvbhoyhpqgb/Pods-SimpleCam-prefix.pch.pch
+xPods-SimpleCam-prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/Pods-SimpleCam-prefix.pch
+d/Users/kevinnguy/mama/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Precompile Pods-SimpleCam-prefix.pch264"ProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-gshryywzsvuxhlepjnvbhoyhpqgb/Pods-SimpleCam-prefix.pch.pch Pods-SimpleCam-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compileref90b63c549db941^bceb283f549db941^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/kevinnguy/mama/Pods/Pods-SimpleCam-prefix.pch0000000000000000^3538"ProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-gshryywzsvuxhlepjnvbhoyhpqgb/Pods-SimpleCam-prefix.pch.pch Pods-SimpleCam-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/Pods-SimpleCam-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/SimpleCam -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers/SimpleCam -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SimpleCam.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-gshryywzsvuxhlepjnvbhoyhpqgb/Pods-SimpleCam-prefix.pch.dia -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-gshryywzsvuxhlepjnvbhoyhpqgb/Pods-SimpleCam-prefix.pch.d -c /Users/kevinnguy/mama/Pods/Pods-SimpleCam-prefix.pch -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-SimpleCam-prefix-gshryywzsvuxhlepjnvbhoyhpqgb/Pods-SimpleCam-prefix.pch.pch36"EC795BB1-6998-4363-9DBF-D9A94FB9D76A-
+b7991F9DB-060E-43D4-9D21-CA7A5A0C2670
+
+CProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Index/PrecompiledHeaders/Pods-SimpleCam-prefix-ctafnaepdfpwjyfglhxbjbticbfz_ast/Pods-SimpleCam-prefix.pch.pch Pods-SimpleCam-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Index/PrecompiledHeaders/Pods-SimpleCam-prefix-eijlcifsaskfqvciahjitjmmkxfm_ast/Pods-SimpleCam-prefix.pch.pch Pods-SimpleCam-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

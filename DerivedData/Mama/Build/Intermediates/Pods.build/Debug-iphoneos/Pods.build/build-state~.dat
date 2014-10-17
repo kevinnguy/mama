@@ -1,0 +1,88 @@
+TPods
+v6
+r1
+cCheck dependencies
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o /Users/kevinnguy/mama/Pods/Pods-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534CDD8D0000000000000132
+t1397546381
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005324D5B0000000000000036B
+t1394922928
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005324D5B1000000000000019E
+t1394922929
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005324D5B60000000000A90C10
+t1394922934
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005324D60E0000000000000ADC
+t1394923022
+s2780
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o
+t1408046339
+s3376
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods.LinkFileList
+c0000000053ED15020000000000000082
+t1408046338
+s130
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-AFNetworking.a
+c0000000053ED15020000000000160FB8
+t1408046338
+s1445816
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a
+t2
+s0
+
+N/Users/kevinnguy/mama/Pods/Pods-dummy.m
+c0000000053ED14E00000000000000070
+t1408046304
+s112
+
+CBuild AST from /Users/kevinnguy/mama/Pods/Pods-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies923e8d824c9db941^33fe8d824c9db941^---0#1#1#--18"Check dependencies36"6742485C-9791-49D8-8668-3826DF58D6AF-
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o /Users/kevinnguy/mama/Pods/Pods-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739138.555314
+e429739139.152372
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o
+x/Users/kevinnguy/mama/Pods/Pods-dummy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/Pods-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/kevinnguy/mama/Pods/Pods-dummy.m220"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o Pods-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler92418e824c9db941^b80527834c9db941^---0#0#1#-19%DVTDocumentLocation2@46"file:///Users/kevinnguy/mama/Pods/Pods-dummy.m0000000000000000^3247"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o Pods-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/Pods/Headers -I/Users/kevinnguy/mama/Pods/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -isystem /Users/kevinnguy/mama/Pods/Pods/Headers -isystem /Users/kevinnguy/mama/Pods/Pods/Headers/AFNetworking -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.dia -c /Users/kevinnguy/mama/Pods/Pods-dummy.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o36"855922E3-2F61-424E-B5DA-06048B632AFB-
+b02549A7D-E775-4639-9C14-57089FE8CC07
+
+CLibtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a normal armv7
+s429739139.153068
+e429739139.185043
+r1
+xLibtool
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Libtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a normal armv799"Libtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a normal armv7213f27834c9db941^18602f834c9db941^---0#0#1#--942"Libtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a normal armv7    cd /Users/kevinnguy/mama/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -filelist /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a36"184028EA-ADDA-4F06-99E3-0FD467F32AF2-
+b02549A7D-E775-4639-9C14-57089FE8CC07
+

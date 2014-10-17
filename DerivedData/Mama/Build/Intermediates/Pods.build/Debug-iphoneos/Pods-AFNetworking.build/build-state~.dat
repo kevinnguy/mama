@@ -1,0 +1,719 @@
+TPods-AFNetworking
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-fjtjjkxvkaaoyqcfksftplsdlxqs/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperation.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPSessionManager.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkActivityIndicatorManager.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkReachabilityManager.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFSecurityPolicy.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLConnectionOperation.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLRequestSerialization.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLResponseSerialization.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLSessionManager.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/Pods-AFNetworking-dummy.o /Users/kevinnguy/mama/Pods/Pods-AFNetworking-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIActivityIndicatorView+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIAlertView+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIButton+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIImageView+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIProgressView+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIRefreshControl+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIWebView+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534CDD8D0000000000000132
+t1397546381
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005324D5B0000000000000036B
+t1394922928
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005324D5B1000000000000019E
+t1394922929
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534CDD6900000000004D7BC0
+t1397546345
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005324D5B60000000000A90C10
+t1394922934
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005324D5B70000000000210E90
+t1394922935
+s2166416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005324D5B80000000000186D60
+t1394922936
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005324D5B900000000001A2B00
+t1394922937
+s1714944
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005324D60E0000000000000ADC
+t1394923022
+s2780
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperation.o
+t1408046337
+s45240
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o
+t1408046337
+s56732
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPSessionManager.o
+t1408046337
+s65380
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkActivityIndicatorManager.o
+t1408046337
+s33736
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkReachabilityManager.o
+t1408046337
+s43512
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFSecurityPolicy.o
+t1408046337
+s38096
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLConnectionOperation.o
+t1408046338
+s200880
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLRequestSerialization.o
+t1408046338
+s232176
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLResponseSerialization.o
+t1408046338
+s101296
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLSessionManager.o
+t1408046338
+s197540
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/Pods-AFNetworking-dummy.o
+t1408046338
+s3720
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/Pods-AFNetworking.LinkFileList
+c0000000053ED15000000000000000B1A
+t1408046336
+s2842
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIActivityIndicatorView+AFNetworking.o
+t1408046338
+s50420
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIAlertView+AFNetworking.o
+t1408046338
+s28264
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIButton+AFNetworking.o
+t1408046338
+s74412
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIImageView+AFNetworking.o
+t1408046338
+s71796
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIProgressView+AFNetworking.o
+t1408046338
+s66904
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIRefreshControl+AFNetworking.o
+t1408046338
+s51828
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIWebView+AFNetworking.o
+t1408046338
+s66600
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch.pch
+t1408046337
+s91132
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-fjtjjkxvkaaoyqcfksftplsdlxqs/Pods-AFNetworking-prefix.pch.pch
+t1408046337
+s90732
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-AFNetworking.a
+t2
+s0
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+c0000000053ED14E00000000000001D5E
+t1408046304
+s7518
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+c0000000053ED14E000000000000029D9
+t1408046304
+s10713
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+c0000000053ED14E0000000000000322B
+t1408046304
+s12843
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+c0000000053ED14E0000000000000267B
+t1408046304
+s9851
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+c0000000053ED14E00000000000002B7A
+t1408046304
+s11130
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+c0000000053ED14E00000000000006C06
+t1408046304
+s27654
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+c0000000053ED14E0000000000000BB98
+t1408046304
+s48024
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+c0000000053ED14E00000000000006784
+t1408046304
+s26500
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+c0000000053ED14E0000000000000A96B
+t1408046304
+s43371
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+c0000000053ED14E00000000000001911
+t1408046304
+s6417
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+c0000000053ED14E00000000000000F1E
+t1408046304
+s3870
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+c0000000053ED14E00000000000001641
+t1408046304
+s5697
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+c0000000053ED14E00000000000001D60
+t1408046304
+s7520
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+c0000000053ED14E00000000000001F28
+t1408046304
+s7976
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+c0000000053ED14E00000000000001EE1
+t1408046304
+s7905
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+c0000000053ED14E00000000000000EFC
+t1408046304
+s3836
+
+N/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+c0000000053ED14E0000000000000192C
+t1408046304
+s6444
+
+N/Users/kevinnguy/mama/Pods/Pods-AFNetworking-dummy.m
+c0000000053ED14E0000000000000008A
+t1408046304
+s138
+
+N/Users/kevinnguy/mama/Pods/Pods-AFNetworking-prefix.pch
+c0000000053ED14E0000000000000004D
+t1408046304
+s77
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/Pods-AFNetworking-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9887f47f4c9db941^a9d80c804c9db941^---0#1#1#--18"Check dependencies36"5F4B1E6A-88D0-40FE-95FD-DD1741E88AE6-
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperation.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739137.426979
+e429739137.649483
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperation.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m283"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf3716d814c9db941^d844a6814c9db941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m0000000000000000^3700"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperation.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperation.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperation.o36"95B71409-D313-43E1-BCE1-4D8A4BECB21F-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739137.427400
+e429739137.686112
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m297"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc68b6d814c9db941^2fa4af814c9db941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m0000000000000000^3742"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperationManager.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperationManager.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPRequestOperationManager.o36"62A860C4-6381-41AF-ABC9-4C9DC02117CC-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPSessionManager.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739137.428032
+e429739137.823865
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPSessionManager.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m279"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler3fc96d814c9db941^b62cd3814c9db941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m0000000000000000^3688"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPSessionManager.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPSessionManager.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFHTTPSessionManager.o36"59222835-4718-437E-87E2-CCFAA6B9F368-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkActivityIndicatorManager.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739137.429184
+e429739137.717084
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkActivityIndicatorManager.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m311"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler85256e814c9db941^af96b7814c9db941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m0000000000000000^3778"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkActivityIndicatorManager.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkActivityIndicatorManager.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkActivityIndicatorManager.o36"15952F4E-D857-401B-BAD9-03009A3C3A8A-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkReachabilityManager.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739137.649820
+e429739137.797406
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkReachabilityManager.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m295"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5681a6814c9db941^0934cc814c9db941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m0000000000000000^3736"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkReachabilityManager.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkReachabilityManager.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFNetworkReachabilityManager.o36"4EFEE88F-412A-4174-A16E-9407525899E9-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFSecurityPolicy.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739137.686492
+e429739137.820368
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFSecurityPolicy.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m271"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc1e3af814c9db941^f703d2814c9db941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m0000000000000000^3664"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFSecurityPolicy.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFSecurityPolicy.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFSecurityPolicy.o36"0D6D73B1-1EC9-45C3-9159-DF8FD75795B6-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLConnectionOperation.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739137.717705
+e429739138.162813
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLConnectionOperation.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m287"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera8e5b7814c9db941^99d729824c9db941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m0000000000000000^3712"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLConnectionOperation.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLConnectionOperation.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLConnectionOperation.o36"A40AD479-8C86-4115-835F-0429CE9F6FD6-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLRequestSerialization.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739137.797828
+e429739138.283432
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLRequestSerialization.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m289"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0b62cc814c9db941^719048824c9db941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m0000000000000000^3718"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLRequestSerialization.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLRequestSerialization.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLRequestSerialization.o36"5DF73174-5204-49D8-A0D9-AC0D4E524684-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLResponseSerialization.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739137.821898
+e429739138.060420
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLResponseSerialization.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m291"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2191d2814c9db941^57780f824c9db941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m0000000000000000^3724"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLResponseSerialization.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLResponseSerialization.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLResponseSerialization.o36"FD321970-1549-4ED5-A968-C67457BE294C-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLSessionManager.o /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739137.825318
+e429739138.237275
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLSessionManager.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m277"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler0fb7d3814c9db941^2fbe3c824c9db941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m0000000000000000^3682"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLSessionManager.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLSessionManager.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/AFURLSessionManager.o36"63E5CF2E-9C61-45C3-B3B5-3E2B75B6C0D7-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/Pods-AFNetworking-dummy.o /Users/kevinnguy/mama/Pods/Pods-AFNetworking-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739138.061529
+e429739138.117853
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/Pods-AFNetworking-dummy.o
+x/Users/kevinnguy/mama/Pods/Pods-AFNetworking-dummy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/Pods-AFNetworking-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/kevinnguy/mama/Pods/Pods-AFNetworking-dummy.m259"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler19e70f824c9db941^d5261e824c9db941^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/kevinnguy/mama/Pods/Pods-AFNetworking-dummy.m0000000000000000^3643"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-fjtjjkxvkaaoyqcfksftplsdlxqs/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/Pods-AFNetworking-dummy.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/Pods-AFNetworking-dummy.dia -c /Users/kevinnguy/mama/Pods/Pods-AFNetworking-dummy.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/Pods-AFNetworking-dummy.o36"A998BB39-5BF6-4CAB-8BC7-B14AED9B4FA1-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIActivityIndicatorView+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739138.118170
+e429739138.262822
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIActivityIndicatorView+AFNetworking.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m317"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler02661e824c9db941^5a4943824c9db941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m0000000000000000^3796"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIActivityIndicatorView+AFNetworking.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIActivityIndicatorView+AFNetworking.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIActivityIndicatorView+AFNetworking.o36"CB08394F-8123-426B-8D54-6506401EF547-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIAlertView+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739138.164046
+e429739138.284186
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIAlertView+AFNetworking.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m293"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler31252a824c9db941^381149824c9db941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m0000000000000000^3724"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIAlertView+AFNetworking.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIAlertView+AFNetworking.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIAlertView+AFNetworking.o36"7A94E6BB-8C8B-45A2-8DFB-180844DF89B1-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIButton+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739138.239708
+e429739138.435436
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIButton+AFNetworking.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m287"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler62873d824c9db941^9a936f824c9db941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m0000000000000000^3706"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIButton+AFNetworking.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIButton+AFNetworking.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIButton+AFNetworking.o36"ABA90388-3E45-4E3A-8226-4266B884A46D-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIImageView+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739138.264207
+e429739138.442886
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIImageView+AFNetworking.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m293"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5ccc43824c9db941^a26171824c9db941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m0000000000000000^3724"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIImageView+AFNetworking.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIImageView+AFNetworking.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIImageView+AFNetworking.o36"B73DFB5D-5C06-4641-9141-5C11545C6432-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIProgressView+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739138.284526
+e429739138.456421
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIProgressView+AFNetworking.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m299"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc6fc48824c9db941^33dc74824c9db941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m0000000000000000^3742"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIProgressView+AFNetworking.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIProgressView+AFNetworking.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIProgressView+AFNetworking.o36"9FE45FA4-CF07-42AB-8C65-3B1CFD27B60C-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIRefreshControl+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739138.285696
+e429739138.425322
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIRefreshControl+AFNetworking.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m303"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIRefreshControl+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere54649824c9db941^04e36c824c9db941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m0000000000000000^3754"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIRefreshControl+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIRefreshControl+AFNetworking.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIRefreshControl+AFNetworking.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIRefreshControl+AFNetworking.o36"243AA5F7-F846-42F4-B7FD-725C29277E53-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIWebView+AFNetworking.o /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739138.425665
+e429739138.523629
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIWebView+AFNetworking.o
+x/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+d/Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/kevinnguy/mama/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m289"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler302a6d824c9db941^ed0d86824c9db941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m0000000000000000^3712"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIWebView+AFNetworking.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIWebView+AFNetworking.dia -c /Users/kevinnguy/mama/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/UIWebView+AFNetworking.o36"81C0AC4C-5D9A-43ED-9A01-7A9001FCFD55-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CLibtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7
+s429739138.525399
+e429739138.546077
+r1
+xLibtool
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-AFNetworking.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Libtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7112"Libtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7cd9086824c9db941^4bcc8b824c9db941^---0#0#1#--1079"Libtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7    cd /Users/kevinnguy/mama/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -filelist /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7/Pods-AFNetworking.LinkFileList -framework CoreGraphics -framework Foundation -framework MobileCoreServices -framework Security -framework SystemConfiguration -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-AFNetworking.a36"BF8CD7E7-701D-4E85-9394-CBA13E0EA911-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739136.051048
+e429739137.426253
+r1
+xProcessPCH
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/Pods-AFNetworking-prefix.pch
+d/Users/kevinnguy/mama/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch273"ProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1a330d804c9db941^bc216d814c9db941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/kevinnguy/mama/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3531"ProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -fobjc-arc --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch.d -c /Users/kevinnguy/mama/Pods/Pods-AFNetworking-prefix.pch -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dgaaxutjeadudjclhapqcvjseetj/Pods-AFNetworking-prefix.pch.pch36"A9F9C45E-1F80-4854-BEB5-110C9C0B2985-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-fjtjjkxvkaaoyqcfksftplsdlxqs/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429739136.051354
+e429739137.412354
+r1
+xProcessPCH
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-fjtjjkxvkaaoyqcfksftplsdlxqs/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/Pods-AFNetworking-prefix.pch
+d/Users/kevinnguy/mama/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch273"ProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-fjtjjkxvkaaoyqcfksftplsdlxqs/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler6c430d804c9db941^719369814c9db941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/kevinnguy/mama/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3520"ProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-fjtjjkxvkaaoyqcfksftplsdlxqs/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/BuildHeaders -I/Users/kevinnguy/mama/Pods/BuildHeaders/AFNetworking -I/Users/kevinnguy/mama/Pods/Headers -I/Users/kevinnguy/mama/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-fjtjjkxvkaaoyqcfksftplsdlxqs/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-fjtjjkxvkaaoyqcfksftplsdlxqs/Pods-AFNetworking-prefix.pch.d -c /Users/kevinnguy/mama/Pods/Pods-AFNetworking-prefix.pch -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-fjtjjkxvkaaoyqcfksftplsdlxqs/Pods-AFNetworking-prefix.pch.pch36"0F27117D-DCD9-4CC7-A172-8A74A06857A9-
+b880F8F2F-681D-4CB0-BE2B-48ED118FA184
+
+CProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-dyprmnjogfghqwdbcmmuuvygodte_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/kevinnguy/mama/DerivedData/Mama/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-gbkaxsqpdknyfrfrnwvadzlkpoty_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

@@ -1,0 +1,126 @@
+TPods
+v6
+r1
+cCheck dependencies
+cCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o /Users/kevinnguy/mama/Pods/Pods-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a normal armv7
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534CDD8D0000000000000132
+t1397546381
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005324D5B0000000000000036B
+t1394922928
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005324D5B1000000000000019E
+t1394922929
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005324D5B60000000000A90C10
+t1394922934
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005324D60E0000000000000ADC
+t1394923022
+s2780
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o
+t1408048319
+s3376
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods.LinkFileList
+c0000000053ED1F100000000000000082
+t1408048912
+s130
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/TouchView.o
+t1408048715
+s39464
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-AFNetworking.a
+c0000000053ED1CBE0000000000160FB8
+t1408048318
+s1445816
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods-SimpleCam.a
+c0000000053ED229E000000000002BCF8
+t1408049822
+s179448
+
+N/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a
+t1408049822
+s1628704
+
+N/Users/kevinnguy/mama/Pods/Pods-dummy.m
+c0000000053ED1C390000000000000070
+t1408048185
+s112
+
+N/Users/kevinnguy/mama/Pods/SimpleCam/TouchView.h
+c0000000053ED1E170000000000000089
+t1408048663
+s137
+
+N/Users/kevinnguy/mama/Pods/SimpleCam/TouchView.m
+c0000000053ED1E49000000000000011C
+t1408048713
+s284
+
+CBuild AST from /Users/kevinnguy/mama/Pods/Pods-dummy.m
+r0
+
+CBuild AST from /Users/kevinnguy/mama/Pods/SimpleCam/TouchView.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies14eb2432769db941^bc572532769db941^---0#1#1#--18"Check dependencies36"C3D87A21-93E9-4F66-8B6D-16D3B9DEC7E4-
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o /Users/kevinnguy/mama/Pods/Pods-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429741119.829314
+e429741119.946784
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o
+x/Users/kevinnguy/mama/Pods/Pods-dummy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/Pods-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/kevinnguy/mama/Pods/Pods-dummy.m220"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o Pods-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2c66d43f549db941^2063f23f549db941^---0#0#1#-19%DVTDocumentLocation2@46"file:///Users/kevinnguy/mama/Pods/Pods-dummy.m0000000000000000^3358"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o Pods-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/Pods/Headers -I/Users/kevinnguy/mama/Pods/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/Pods/Pods/Headers/SimpleCam -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -isystem /Users/kevinnguy/mama/Pods/Pods/Headers -isystem /Users/kevinnguy/mama/Pods/Pods/Headers/AFNetworking -isystem /Users/kevinnguy/mama/Pods/Pods/Headers/SimpleCam -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.dia -c /Users/kevinnguy/mama/Pods/Pods-dummy.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods-dummy.o36"299C1EB7-C1F5-48E6-BD07-64A872D8FE4D-
+b74E855E6-8C02-41E2-A5BB-BA1E759C8E5E
+
+CCompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/TouchView.o /Users/kevinnguy/mama/Pods/SimpleCam/TouchView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429741515.004520
+e429741515.805621
+r1
+xCompileC
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/TouchView.o
+x/Users/kevinnguy/mama/Pods/SimpleCam/TouchView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kevinnguy/mama/Pods/SimpleCam/TouchView.m
+d/Users/kevinnguy/mama/Pods/SimpleCam/TouchView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/kevinnguy/mama/Pods/SimpleCam/TouchView.m228"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/TouchView.o SimpleCam/TouchView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb24a01cb559db941^6440cecb559db941^---0#0#1#-19%DVTDocumentLocation2@55"file:///Users/kevinnguy/mama/Pods/SimpleCam/TouchView.m0000000000000000^3372"CompileC /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/TouchView.o SimpleCam/TouchView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kevinnguy/mama/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/kevinnguy/mama/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-generated-files.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-own-target-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-all-target-headers.hmap -iquote /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-project-headers.hmap -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/include -I/Users/kevinnguy/mama/Pods/Pods/Headers -I/Users/kevinnguy/mama/Pods/Pods/Headers/AFNetworking -I/Users/kevinnguy/mama/Pods/Pods/Headers/SimpleCam -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/DerivedSources/armv7 -I/Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/DerivedSources -F/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -isystem /Users/kevinnguy/mama/Pods/Pods/Headers -isystem /Users/kevinnguy/mama/Pods/Pods/Headers/AFNetworking -isystem /Users/kevinnguy/mama/Pods/Pods/Headers/SimpleCam -MMD -MT dependencies -MF /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/TouchView.d --serialize-diagnostics /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/TouchView.dia -c /Users/kevinnguy/mama/Pods/SimpleCam/TouchView.m -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/TouchView.o36"56D618E2-D980-46C1-A603-2AEBF7636969-
+b62650E0F-50DB-4F57-8CBB-81A25FDB3914
+
+CLibtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a normal armv7
+s429742622.637741
+e429742622.669515
+r1
+xLibtool
+x/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Libtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a normal armv799"Libtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a normal armv72d5ba31e5a9db941^7366ab1e5a9db941^---0#0#1#--959"Libtool /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a normal armv7    cd /Users/kevinnguy/mama/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos -filelist /Users/kevinnguy/mama/DerivedData/Mama/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -lPods-SimpleCam -o /Users/kevinnguy/mama/DerivedData/Mama/Build/Products/Debug-iphoneos/libPods.a36"D29C2E50-63A5-4F0D-9885-DC9045F0CC4E-
+b6468A10E-417C-48B6-8F01-557BC8556198
+
